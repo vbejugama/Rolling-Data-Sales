@@ -9,6 +9,6 @@ The data can be found at https://www1.nyc.gov/site/finance/taxes/property-rollin
 
 #Project Structure:
 ##Vbejugama/Rolling-Data-Sales
-###-Data     : This directory contains the data files both raw and clean datasets
-###-Analysis : This directory contains the result sets and charts
-###-R_code   : This directory contains the raw code.
+-Data     : This directory contains the data files both raw and clean datasets
+-Analysis : This directory contains the result sets and charts
+-R_code   : This directory contains the raw code.
