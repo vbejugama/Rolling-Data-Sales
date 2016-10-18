@@ -2,7 +2,9 @@
 title: "PropertyRollingSaleData"
 author: "Vivek Bejugama, Brandon Lawrence, Jack Imburgia"
 date: "October 16, 2016"
-output: html_document
+output: 
+  html_document:
+    keep_md: true
 ---
 
 ### Location of the data
